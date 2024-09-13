@@ -1,0 +1,11 @@
+[
+    {
+        "text": "¿Cuál es el planeta más cercano al Sol?",
+        "options": [
+            "Mercurio",
+            "Venus",
+            "Marte"
+        ],
+        "correct": "Mercurio"
+    }
+]
