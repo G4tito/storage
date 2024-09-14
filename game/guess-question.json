@@ -7,5 +7,14 @@
             "Marte"
         ],
         "correct": "Mercurio"
+    },
+    {
+        "text": "¿Cuál es el océano más grande del mundo?",
+        "options": [
+            "Océano Atlántico",
+            "Océano Índico",
+            "Océano Pacífico"
+        ],
+        "correct": "Océano Pacífico"
     }
 ]
