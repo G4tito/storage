@@ -61,5 +61,50 @@
             "Río Yangtsé"
         ],
         "correct": "Río Nilo"
+    },
+    {
+        "text": "¿Cuál es el metal más liviano?",
+        "options": [
+            "Oro",
+            "Litio",
+            "Plata"
+        ],
+        "correct": "Litio"
+    },
+    {
+        "text": "¿Cuál es el continente más pequeño en tamaño?",
+        "options": [
+            "Oceanía",
+            "Europa",
+            "Antártida"
+        ],
+        "correct": "Oceanía"
+    },
+    {
+        "text": "¿Qué gas es esencial para la respiración humana?",
+        "options": [
+            "Dióxido de carbono",
+            "Oxígeno",
+            "Nitrógeno"
+        ],
+        "correct": "Oxígeno"
+    },
+    {
+        "text": "¿Qué invento es atribuido a Alexander Graham Bell?",
+        "options": [
+            "Teléfono",
+            "Televisión",
+            "Radio"
+        ],
+        "correct": "Teléfono"
+    },
+    {
+        "text": "¿Cuál es la capital de Japón?",
+        "options": [
+            "Kioto",
+            "Tokio",
+            "Osaka"
+        ],
+        "correct": "Tokio"
     }
 ]
