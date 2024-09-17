@@ -106,5 +106,50 @@
             "Osaka"
         ],
         "correct": "Tokio"
+    },
+    {
+        "text": "¿Qué planeta es conocido como el planeta rojo?",
+        "options": [
+            "Júpiter",
+            "Marte",
+            "Saturno"
+        ],
+        "correct": "Marte"
+    },
+    {
+        "text": "¿Cuál es el órgano más grande del cuerpo humano?",
+        "options": [
+            "Cerebro",
+            "Piel",
+            "Hígado"
+        ],
+        "correct": "Piel"
+    },
+    {
+        "text": "¿Cuál es el único mamífero capaz de volar?",
+        "options": [
+            "Murciélago",
+            "Águila",
+            "Pingüino"
+        ],
+        "correct": "Murciélago"
+    },
+    {
+        "text": "¿Cuál es la capital de Canadá?",
+        "options": [
+            "Toronto",
+            "Ottawa",
+            "Vancouver"
+        ],
+        "correct": "Ottawa"
+    },
+    {
+        "text": "¿Quién pintó la Mona Lisa?",
+        "options": [
+            "Miguel Ángel",
+            "Leonardo da Vinci",
+            "Pablo Picasso"
+        ],
+        "correct": "Leonardo da Vinci"
     }
 ]
